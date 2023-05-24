@@ -1,1 +1,3 @@
-# api_development
+# Python API Development -- Guide
+Once I created a Github repository, clone it from PowerShell at the desired local folder using...
+`git clone <url_to_github_repo>`
